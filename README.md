@@ -21,7 +21,7 @@ A note on the language:
 * "Use" is a positive instruction.
 
 ### Maintainers
-[Srinivas Aki](http://github.com/surbhikatyayani), The Egghead Creative
+[Srinivas Aki](http://github.com/saki), The Egghead Creative
 
 ### Credits
 Thoughtbot, Inc for their own Guides.
