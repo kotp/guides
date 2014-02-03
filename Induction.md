@@ -67,3 +67,84 @@ Version Control
 Linux
 IDE
 
+
+Crash Course in Web Development
+
+Every Chapter
+Basic Overview/Review
+Exercises
+Document Our Understanding
+
+-------
+1. Introduction
+Object Oriented Design
+Programming Languages (Compiled, Interpreted)
+Design Patterns
+Data Structures
+Algorithms
+
+http://www.boost.co.nz/blog/agile/use-cases-or-user-stories/
+http://martinfowler.com/eaaCatalog/
+http://geekswithblogs.net/subodhnpushpak/archive/2009/09/18/the-23-gang-of-four-design-patterns-.-revisited.aspx
+http://en.wikibooks.org/wiki/Data_Structures
+http://en.wikibooks.org/wiki/Algorithms
+
+-----------
+2. Version Control (Git, Github)
+Github
+Git
+Creating a project
+Creating a branch
+Making changes
+Update Changes
+Committing changes
+Sending a pull request
+Deploy
+
+http://gitready.com/
+http://git-scm.com/
+http://git-scm.com/videos
+http://try.github.io
+
+----------
+
+
+
+
+Process Overview
+Linux Overview
+Coding Standards
+http://www.ee.surrey.ac.uk/Teaching/Unix/
+
+
+Databases (Mysql, Postgresql, Redis, MongoDB)
+
+Ruby (2 days)
+
+Rails, Sinatra (2 days)
+
+Web Technologies (HTML, Javascript, CSS)
+
+TDD (Ruby, Rails, Javascript)
+
+Design Patterns (Ruby, Rails, Javascript)
+Common design patterns
+
+Agile Methodologies
+Scrum
+User Stories
+Pair Programming
+Extreme Programming
+Continuous Integration
+Refactoring
+Small Releases
+
+Deployment
+AWS Services
+Heroku
+Open Stack
+Linode
+Capistrano
+
+
+
