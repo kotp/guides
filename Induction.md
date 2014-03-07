@@ -48,6 +48,8 @@ android-developers@eggheadcreative.com
 
 ios-developers@eggheadcreative.com
 
+timeoff@eggheadcreative.com
+
 ### Process
 Daily Standup Meetings
 Bi-Weekly Retrospective
