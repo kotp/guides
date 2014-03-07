@@ -32,7 +32,9 @@ contact@eggheadcreative.com
 bizdev@eggheadcreative.com
 
 ruby-developers@eggheadcreative.com
+
 android-developers@eggheadcreative.com
+
 ios-developers@eggheadcreative.com
 
 ### Process
