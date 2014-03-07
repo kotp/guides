@@ -2,116 +2,117 @@
 Guide to getting a new team member started and help every team member have a consistent understanding about the process.
 
 ### Employe First Day Orientation Checklist
->Copies of Certificates
+Copies of Certificates
 
->Sign Offer Letter
+Sign Offer Letter
 
->Sign Non-Disclosure and other documents
+Sign Non-Disclosure and other documents
 
->EHC Account
+EHC Account
 
->Github
+Github
 
->LinkedIn
+LinkedIn
 
->DevCycle
+DevCycle
 
->HipChat
+HipChat
 
->Sign Up for a Public Key
+Sign Up for a Public Key
 
->Share google docs
+Share google docs
 
->Setup employee laptop for everyday development
+Setup employee laptop for everyday development
 
->Take picture for team page on the website
+Take picture for team page on the website
 
 ### Tools of Trade
->Git, Github
+Git, Github
 
->IDE (Jetbrains Ecosystem)
+IDE (Jetbrains Ecosystem)
 
->Hipchat
+Hipchat
 
->Google Apps(Email, Calendar, Document Sharing, Groups)
+Google Apps(Email, Calendar, Document Sharing, Groups)
 
->>team@eggheadcreative.com
+>team@eggheadcreative.com
 
->>developers@eggheadcreative.com
+>developers@eggheadcreative.com
 
->>contact@eggheadcreative.com
+>contact@eggheadcreative.com
 
->>bizdev@eggheadcreative.com
+>bizdev@eggheadcreative.com
 
->>ruby-developers@eggheadcreative.com
+>ruby-developers@eggheadcreative.com
 
->>android-developers@eggheadcreative.com
+>android-developers@eggheadcreative.com
 
->>ios-developers@eggheadcreative.com
+>ios-developers@eggheadcreative.com
 
->>timeoff@eggheadcreative.com
+>timeoff@eggheadcreative.com
 
 ### Process
->Daily Standup Meetings
+Daily Standup Meetings
 
->Bi-Weekly Retrospective
+Bi-Weekly Retrospective
 
->Weekly KT Sessions
+Weekly KT Sessions
 
->Extreme Programming
+Extreme Programming
 
 
->> Fine Scale Feedback:
->>
+> Fine Scale Feedback:
+>
 		* Pair Programming
 		* Planning Game
 		* Test Driven Development
 
->> Continuous Process:
->>
+> Continuous Process:
+>
 		* Continuous Integration
 		* Refactoring
 		* Small Releases
 
->> Shared Understanding:
->>
+> Shared Understanding:
+>
 		* Coding Standards
 		* Collective Code Ownership
 		* Simple Design
 		* System Metaphor
 
-	Programmer Welfare:
+> 	Programmer Welfare:
+>
 		* Sustainable Pace
 
 
 
 ### Training
 
->Developer:
+Developer:
 
->>OOPS
+>OOPS
 
->>Databases
+>Databases
 
->>Version Control
+>Version Control
 
->>Linux
+>Linux
 
->>IDE
+>IDE
 
 
->>Crash Course in Web Development
+>Crash Course in Web Development
 
->>Every Chapter Basic Overview/Review
+>Every Chapter Basic Overview/Review
 
->>Exercises
+>Exercises
 
->>Document Our Understanding
+>Document Our Understanding
 
 -------
 Introduction of
 
- > Object Oriented Design
+ >Object Oriented Design
 
  >Programming Languages (Compiled, Interpreted)
 
@@ -148,13 +149,13 @@ Version Control (Git, Github)
 
  >Deploy
 
->>http://gitready.com/
+>http://gitready.com/
 
->>http://git-scm.com/
+>http://git-scm.com/
 
->>http://git-scm.com/videos
+>http://git-scm.com/videos
 
->>http://try.github.io
+>http://try.github.io
 
 ----------
 
