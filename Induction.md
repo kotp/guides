@@ -3,23 +3,35 @@ Guide to getting a new team member started and help every team member have a con
 
 ### Employe First Day Orientation Checklist
 Copies of Certificates
+
 Sign Offer Letter
+
 Sign Non-Disclosure and other documents
 
 EHC Account
+
 Github
+
 LinkedIn
+
 DevCycle
+
 HipChat
 Sign Up for a Public Key
+
 Share google docs
+
 Setup employee laptop for everyday development
+
 Take picture for team page on the website
 
 ### Tools of Trade
 Git, Github
+
 IDE (Jetbrains Ecosystem)
+
 Hipchat
+
 Google Apps(Email, Calendar, Document Sharing, Groups)
 
 team@eggheadcreative.com
