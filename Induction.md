@@ -24,8 +24,11 @@ Hipchat
 Google Apps(Email, Calendar, Document Sharing, Groups)
 
 team@eggheadcreative.com
+
 developers@eggheadcreative.com
+
 contact@eggheadcreative.com
+
 bizdev@eggheadcreative.com
 
 ruby-developers@eggheadcreative.com
