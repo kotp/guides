@@ -11,7 +11,6 @@ Github
 LinkedIn
 DevCycle
 HipChat
-
 Sign Up for a Public Key
 Share google docs
 Setup employee laptop for everyday development
