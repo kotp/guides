@@ -2,69 +2,79 @@
 Guide to getting a new team member started and help every team member have a consistent understanding about the process.
 
 ### Employe First Day Orientation Checklist
-Copies of Certificates
+>Copies of Certificates
 
-Sign Offer Letter
+>Sign Offer Letter
 
-Sign Non-Disclosure and other documents
+>Sign Non-Disclosure and other documents
 
-EHC Account
+>EHC Account
 
-Github
+>Github
 
-LinkedIn
+>LinkedIn
 
-DevCycle
+>DevCycle
 
-HipChat
-Sign Up for a Public Key
+>HipChat
 
-Share google docs
+>Sign Up for a Public Key
 
-Setup employee laptop for everyday development
+>Share google docs
 
-Take picture for team page on the website
+>Setup employee laptop for everyday development
+
+>Take picture for team page on the website
 
 ### Tools of Trade
-Git, Github
+>Git, Github
 
-IDE (Jetbrains Ecosystem)
+>IDE (Jetbrains Ecosystem)
 
-Hipchat
+>Hipchat
 
-Google Apps(Email, Calendar, Document Sharing, Groups)
+>Google Apps(Email, Calendar, Document Sharing, Groups)
 
-team@eggheadcreative.com
+>>team@eggheadcreative.com
 
-developers@eggheadcreative.com
+>>developers@eggheadcreative.com
 
-contact@eggheadcreative.com
+>>contact@eggheadcreative.com
 
-bizdev@eggheadcreative.com
+>>bizdev@eggheadcreative.com
 
-ruby-developers@eggheadcreative.com
+>>ruby-developers@eggheadcreative.com
 
-android-developers@eggheadcreative.com
+>>android-developers@eggheadcreative.com
 
-ios-developers@eggheadcreative.com
+>>ios-developers@eggheadcreative.com
 
-timeoff@eggheadcreative.com
+>>timeoff@eggheadcreative.com
 
 ### Process
-Daily Standup Meetings
-Bi-Weekly Retrospective
-Extreme Programming
-	Fine Scale Feedback:
+>Daily Standup Meetings
+
+>Bi-Weekly Retrospective
+
+>Weekly KT Sessions
+
+>Extreme Programming
+
+
+>> Fine Scale Feedback:
+>>
 		* Pair Programming
 		* Planning Game
 		* Test Driven Development
 
-	Continuous Process:
+>> Continuous Process:
+>>
 		* Continuous Integration
 		* Refactoring
 		* Small Releases
 
-	Shared Understanding:
+>> Shared Understanding:
+>>
 		* Coding Standards
 		* Collective Code Ownership
 		* Simple Design
@@ -73,66 +83,89 @@ Extreme Programming
 	Programmer Welfare:
 		* Sustainable Pace
 
-Weekly KT Sessions
+
 
 ### Training
 
-Developer:
+>Developer:
 
-OOPS
-Databases
-Version Control
-Linux
-IDE
+>>OOPS
+
+>>Databases
+
+>>Version Control
+
+>>Linux
+
+>>IDE
 
 
-Crash Course in Web Development
+>>Crash Course in Web Development
 
-Every Chapter
-Basic Overview/Review
-Exercises
-Document Our Understanding
+>>Every Chapter Basic Overview/Review
+
+>>Exercises
+
+>>Document Our Understanding
 
 -------
-1. Introduction
-Object Oriented Design
-Programming Languages (Compiled, Interpreted)
-Design Patterns
-Data Structures
-Algorithms
+Introduction of
 
-http://www.boost.co.nz/blog/agile/use-cases-or-user-stories/
-http://martinfowler.com/eaaCatalog/
-http://geekswithblogs.net/subodhnpushpak/archive/2009/09/18/the-23-gang-of-four-design-patterns-.-revisited.aspx
-http://en.wikibooks.org/wiki/Data_Structures
-http://en.wikibooks.org/wiki/Algorithms
+ > Object Oriented Design
+
+ >Programming Languages (Compiled, Interpreted)
+
+ >Design Patterns
+
+ >Data Structures
+
+ >Algorithms
+
+>http://www.boost.co.nz/blog/agile/use-cases-or-user-stories/
+>http://martinfowler.com/eaaCatalog/
+>http://geekswithblogs.net/subodhnpushpak/archive/2009/09/18/the-23-gang-of-four-design-patterns-.-revisited.aspx
+>http://en.wikibooks.org/wiki/Data_Structures
+>http://en.wikibooks.org/wiki/Algorithms
 
 -----------
-2. Version Control (Git, Github)
-Github
-Git
-Creating a project
-Creating a branch
-Making changes
-Update Changes
-Committing changes
-Sending a pull request
-Deploy
+Version Control (Git, Github)
 
-http://gitready.com/
-http://git-scm.com/
-http://git-scm.com/videos
-http://try.github.io
+ >Github
+
+ >Git
+
+ >Creating a project
+
+ >Creating a branch
+
+ >Making changes
+
+ >Update Changes
+
+ >Committing changes
+
+ >Sending a pull request
+
+ >Deploy
+
+>>http://gitready.com/
+
+>>http://git-scm.com/
+
+>>http://git-scm.com/videos
+
+>>http://try.github.io
 
 ----------
 
 
-
-
 Process Overview
+
 Linux Overview
+
 Coding Standards
-http://www.ee.surrey.ac.uk/Teaching/Unix/
+
+>http://www.ee.surrey.ac.uk/Teaching/Unix/
 
 
 Databases (Mysql, Postgresql, Redis, MongoDB)
@@ -146,23 +179,35 @@ Web Technologies (HTML, Javascript, CSS)
 TDD (Ruby, Rails, Javascript)
 
 Design Patterns (Ruby, Rails, Javascript)
+
 Common design patterns
 
 Agile Methodologies
-Scrum
-User Stories
-Pair Programming
-Extreme Programming
-Continuous Integration
-Refactoring
-Small Releases
+
+>Scrum
+
+>User Stories
+
+>Pair Programming
+
+>Extreme Programming
+
+>Continuous Integration
+
+>Refactoring
+
+>Small Releases
 
 Deployment
-AWS Services
-Heroku
-Open Stack
-Linode
-Capistrano
 
+AWS Services
+
+Heroku
+
+Open Stack
+
+Linode
+
+Capistrano
 
 
