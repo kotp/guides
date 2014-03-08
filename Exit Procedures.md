@@ -1,8 +1,8 @@
-## Exit Rules
-Its a shame that you have to move on. But we would appreciate if you would respect the team and stick with the expectations.
+## Exit Procedures
+Please follow the following tasks and have your managing officer sign off on your notice.
 
 * One month notice
-* Help hire and train the replacement candidate
+* Help hire and train your replacement
 * Knowledge Transfer
-* Couple of Blog Posts
+* Couple of Blog Posts highlighting your expertise and experience 
 * Wait for your manager to sign off your exit
