@@ -43,13 +43,9 @@ Google Apps(Email, Calendar, Document Sharing, Groups)
 
 >bizdev@eggheadcreative.com
 
->ruby-developers@eggheadcreative.com
-
->android-developers@eggheadcreative.com
-
->ios-developers@eggheadcreative.com
-
 >timeoff@eggheadcreative.com
+
+>jobs@eggheadcreative.com
 
 ### Process
 Daily Standup Meetings
